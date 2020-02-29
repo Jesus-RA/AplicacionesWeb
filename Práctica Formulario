@@ -1,0 +1,19 @@
+Práctica
+Crear un formulario para enviar llamado Envia.php
+Nombre: (Text)
+Carrera:
+(RadioButton) "Licenciatura" "Ingeniería" "ITI"
+Pasatiempos  (Check)
+[] FUTBOL
+[] BASKETBOL
+[] PING PING
+[] LEER
+
+En un hidden "Promedio actual"  (Hidden)
+
+Fotografía [      ] adjuntar/subir archivo  (File)
+Submit [Aceptar]   (Submit)
+
+Formulario que recibe
+Centrar la fotografía y la información introducida
+Nombre, carrera, promedio, pasatiempos...
